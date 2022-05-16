@@ -215,6 +215,7 @@ header {
   z-index: -2;
 }
 h1 {
+    text-align: center;
   color: var(--clr-white);
 }
 /* switch button */
